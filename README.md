@@ -2,7 +2,7 @@
 
 Scandiweb assigment task by Nikita Terentjevs
 Task: Create 2 web pages :
-            1)product list,    (displays products from database)
+            1)product list    (displays products from database),
             2)product add;
 Product has:
     SKU (Storage keeping unit),
