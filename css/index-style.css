@@ -1,0 +1,9 @@
+body{
+    background-color: grey;
+}
+.row>div{
+    background-color: white;
+    text-align: center;
+    border-color: black;
+    border-style: solid;
+}
